@@ -3,6 +3,7 @@ title: "Screenshot Testing on the JVM. Thanks to Paparazzi."
 datePublished: Mon Nov 27 2023 17:19:15 GMT+0000 (Coordinated Universal Time)
 cuid: clph6bqut000009jm6yrn9myy
 slug: screenshot-testing-on-the-jvm-thanks-to-paparazzi
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1701105587148/c75bd668-f51d-4994-84b5-3b9d0a29d13b.webp
 tags: android, testing, jetpack-compose
 
 ---
