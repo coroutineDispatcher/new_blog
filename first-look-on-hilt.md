@@ -1,15 +1,7 @@
 ---
 title: 'First look on Hilt'
 date: 2020-06-11T21:04:00.001+02:00
-draft: false
-aliases: [ "/2020/06/first-look-on-hilt.html" ]
-tags : [Android]
-author: "Stavro Xhardha"
 ---
-
-  
-
-[![](https://1.bp.blogspot.com/-IBwldAxS5CI/XuJ3mn1rT8I/AAAAAAAAUDI/0Rljva1Df28Xhw2MnosUUWFPs7ng42kdgCK4BGAsYHg/d/raphael-gritschke-9aZzeHjSnCo-unsplash.jpg)](https://1.bp.blogspot.com/-IBwldAxS5CI/XuJ3mn1rT8I/AAAAAAAAUDI/0Rljva1Df28Xhw2MnosUUWFPs7ng42kdgCK4BGAsYHg/s5184/raphael-gritschke-9aZzeHjSnCo-unsplash.jpg)
 
 onCreate
 --------
