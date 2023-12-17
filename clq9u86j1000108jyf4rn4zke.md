@@ -427,7 +427,7 @@ It's pretty cool because you don't have to load a thumbnail until your image is 
 
 ### Testing
 
-For testing also, remember: You are not on JVM anymore. But Kotlin already has APIs for testing. Take a look [here](https://www.jetbrains.com/help/kotlin-multiplatform-dev/multiplatform-run-tests.html) to get started. For me, I need to know more about UI testing in KMM, but as for unit tests, I just wrote a test for my `BackStackHandler`:
+For testing also, remember: You are not on JVM anymore. But Kotlin already has APIs for testing. Take a look [here](https://www.jetbrains.com/help/kotlin-multiplatform-dev/multiplatform-run-tests.html) to get started. For me, I need to know more about UI testing in KMM, but as for unit tests, I just wrote a test for my `BackStackHandler` with the help of Turbine for flows:
 
 ```kotlin
 class BackStackHandlerTest {
@@ -522,6 +522,8 @@ class BackStackHandlerTest {
     }
 }
 ```
+
+If you don't know how `Turbine` works, take a quick look [here, in my other article](https://dispatchersdotplayground.hashnode.dev/simplify-testing-kotlin-flows-with-turbine).
 
 If I am correct, `mockk` or `mockito` should not work on Kotlin Multiplatform either. Even better. Build your own mocks/fakes.
 
