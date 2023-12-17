@@ -5,6 +5,7 @@ seoDescription: "This article will guide you through my journey and what you nee
 datePublished: Sun Dec 17 2023 18:45:52 GMT+0000 (Coordinated Universal Time)
 cuid: clq9u86j1000108jyf4rn4zke
 slug: my-first-trip-with-kotlin-multiplatform-mobile
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1702839291211/e58823a5-b1fe-444d-9328-94cda5897e81.webp
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1702838643650/251c2b20-1ab4-414a-9bee-18e78b63ef6e.webp
 tags: swift, ios, android, kotlin, getting-started, kotlin-multiplatform, kmm
 
