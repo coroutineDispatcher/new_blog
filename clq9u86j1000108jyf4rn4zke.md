@@ -1,6 +1,6 @@
 ---
 title: "My first trip with Kotlin Multiplatform (Mobile)"
-seoTitle: "Navigating the Challenges and Promise of Kotlin Multiplatform: A Devel"
+seoTitle: "Navigating the Challenges and Promise of Kotlin Multiplatform"
 seoDescription: "This article will guide you through my journey and what you need to know before you start with Kotlin Multiplatform."
 datePublished: Sun Dec 17 2023 18:45:52 GMT+0000 (Coordinated Universal Time)
 cuid: clq9u86j1000108jyf4rn4zke
