@@ -33,7 +33,7 @@ In the beginning, this is the directory structure if you chose Kotlin Multiplatf
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1702837428830/2383a371-ecc0-4f95-917a-fca3a49e35e4.png align="center")
 
-Then you just get an `App` composable which is called by `composableApp/iOSMain/kotlin` (not to be confused with `iosApp` that stands alone in parallell with `composableApp`. Through a composable called `MainViewController` that wraps your `App` , your iOS app starts. You don't have to care about how the `MainViewController` is built internally unless you want to learn more about iOS in specific.
+Then you just get an `App` composable which is called by `composableApp/iOSMain/kotlin` (not to be confused with `iosApp` ) that stands alone in parallell with `composableApp`. Through a composable called `MainViewController` that wraps your `App` , your iOS app starts. You don't have to care about how the `MainViewController` is built internally unless you want to learn more about iOS in specific.
 
 The same for Android. Your `MainActivity` calls `App` composable in it's `onCreate`.
 
@@ -62,7 +62,7 @@ I kept it classical Android. MVVM with use cases, one repository and a couple of
 
 ### But what about viewmodels?
 
-Yes. I created my own viewmodel, pretending to copy the minimal behaviour of a real Android developer, without the deep `onRetainInstanceState` that it goes with Android. My viewmodels would just dispose themselves once the composable would dispose.
+Yes. I created my own viewmodel, pretending to copy the minimal behaviour of a real Android viewmodel, without the deep `onRetainInstanceState` that it goes with. My viewmodels would just dispose themselves once the composable would dispose.
 
 ```kotlin
 interface ViewModel<T : ScreenState> {
