@@ -21,7 +21,7 @@ The project, along with its readme and details is found [here](https://github.co
 
 ## What I wanted to achieve
 
-I wanted to test how closely the Kotlin Multiplatform mission holds true. In other words, all the logic can be in Kotlin, and the rest is negotiable—you can either go native or try Compose Multiplatform. As an Android developer, I wasn't in the perfect conditions to test such a concept, so I chose to write as much as I could with Kotlin and Compose and then see how far I could go. If you haven't figured it out by now, my project would be on Kotlin Multiplatform Mobile. I have already tried KM Desktop, and it seems pretty decent, considering that there aren't many modern solutions to build desktop apps anyway.
+I wanted to test how closely the Kotlin Multiplatform mission holds true. In other words, all the logic can be in Kotlin, and the rest is negotiable—you can either go native or try Compose Multiplatform. As an Android developer, I was in the perfect conditions to test such a concept, so I chose to write as much as I could with Kotlin and Compose and then see how far I could go. If you haven't figured it out by now, my project would be on Kotlin Multiplatform Mobile. I have already tried KM Desktop, and it seems pretty decent, considering that there aren't many modern solutions to build desktop apps anyway.
 
 ### Fondamental concept
 
