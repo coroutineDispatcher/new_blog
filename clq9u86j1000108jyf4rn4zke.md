@@ -1,6 +1,6 @@
 ---
 title: "My first trip with Kotlin Multiplatform (Mobile)"
-seoTitle: "Navigating the Challenges and Promise of Kotlin Multiplatform"
+seoTitle: "My first trip with Kotlin Multiplatform (Mobile)"
 seoDescription: "This article will guide you through my journey and what you need to know before you start with Kotlin Multiplatform."
 datePublished: Sun Dec 17 2023 18:45:52 GMT+0000 (Coordinated Universal Time)
 cuid: clq9u86j1000108jyf4rn4zke
@@ -15,6 +15,8 @@ I have to be honest; I never liked it. The main reason was that I was not comfor
 One of my favorite apps is [Pocket, from Mozilla](https://www.mozilla.org/en-US/firefox/pocket/) team, so I thought I should create a mock of that one, but in multiplatform.
 
 *Note: The project simply reflects my journey with Kotlin Multiplatform. I do not claim that this repository serves as a good example at this point. It's not a bad example either, but it currently lacks a proper navigation technique and is somewhat hacky.*
+
+The project, along with its readme and details is found [here](https://github.com/coroutineDispatcher/belt).
 
 ## What I wanted to achieve
 
