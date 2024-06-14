@@ -5,6 +5,7 @@ seoDescription: "In this article we will learn what is a HAL - hardware abstract
 datePublished: Fri Jun 14 2024 18:22:54 GMT+0000 (Coordinated Universal Time)
 cuid: clxf0nz98000c09l6ayjsa5jt
 slug: what-is-a-hal-anyways
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1718389562327/28acd5db-dbe9-441b-8d51-351e0eb76070.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1718389325134/42c77a8a-dc6d-4311-bc7a-5d8390af7392.jpeg
 tags: cpp, c, linux, java, android, hal, kotlin, linux-kernel, aosp, platform-engineering, platform-architecture, hardware-abstraction-layer, android-platform
 
