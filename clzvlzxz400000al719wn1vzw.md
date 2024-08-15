@@ -143,3 +143,5 @@ After the hook is executed, all that is needed is to try the button in the appli
 Mission accomplished. The Android app has been hacked in runtime.
 
 Luckily for every user out there, this tool cannot work unless the Android device is rooted (and if I am not mistaken, if the iOS device not jailbroken). However, it is one of the most interesting tools I have seen as a developer. With Frida, you can do a lot more than this example. For pentesters especially, this is indeed something that must be mastered.
+
+Thank you for reading. If you enjoy the articles that I write, you can consider subscribing to my Newsletter so that you won't miss another article when I publish it. Enjoy coding (or hacking).
