@@ -88,7 +88,7 @@ With all that said, everything is set up. All we need to do know, is to write th
 
 ### JS or Python? For Android runtime?
 
-Unfortunately, I don't know how it works under the hood. But it seems Frida is written in C and developers can easily write JavaScript APIs because of the integration of Google's V8 engine in the tool. I'll leave a short section of what the website mentions this:
+Unfortunately, I don't know how it works under the hood. But it seems Frida is written in C and developers can easily write JavaScript APIs because of the integration of Google's V8 engine in the tool. I'll leave a short section of what the website mentions about this:
 
 > ## Why a Python API, but JavaScript debugging logic?
 > 
@@ -103,7 +103,7 @@ So let's write our JS script:
 ```javascript
 Java.perform(() => {
     const MainActivity = Java.use('com.dispatchersplayground.fridaexample.MainActivity');
-    const secretMessageFunction  = MainActivity.getName;
+    const secretMessageFunction  = MainActivity.secretMessage;
 
     secretMessageFunction.implementation = function () {
         send('Hacking the message');
