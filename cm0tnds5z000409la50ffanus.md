@@ -1,10 +1,10 @@
 ---
-title: "Intercepting Android on runtime on non-rooted devices"
+title: "Intercepting Android at runtime on non-rooted devices."
 seoTitle: "Intercepting Android on runtime on non-rooted devices"
 seoDescription: "Interestingly enough, Frida tool has its place on non-rooted devices as well. It can be used directly or with the help of another tool called Objection..."
 datePublished: Sun Sep 08 2024 14:06:43 GMT+0000 (Coordinated Universal Time)
 cuid: cm0tnds5z000409la50ffanus
-slug: intercepting-android-on-runtime-on-non-rooted-devices
+slug: intercepting-android-at-runtime-on-non-rooted-devices
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1725797182983/ddc23c93-a2ec-41b2-a3ac-26c51890027c.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1725804368196/67813941-44a5-4406-a5e6-51184a427e35.jpeg
 tags: android, hacking
