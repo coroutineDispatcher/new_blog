@@ -10,6 +10,8 @@ tags: android-app-development, android, hacking, pentesting
 
 ---
 
+*Disclaimer: Since I'm writing more articles with focus on exploitation rather than development lately, it's worth mentioning that such guidelines are not encouraging anybody to attack Android apps without authorisation. These serve only for educational purposes.*
+
 Lately I've been involved in extending my knowledge in pentesting, reverse engineering and hacking Android apps. It's still a long journey to go. However, I enjoy such a path so much that I can't refrain myself from writing about it.
 
 Of course, there are multiple ways to tamper with an Android `apk`. That includes playing around with the app (behaviour analysis or injecting URL/URI's or even SQLite injection), reverse engineering the `dex` code (static analysis), or messing with the app directly on runtime. There are plenty of tools to be used for each case, but what I find more fascinating is the runtime case. In static analysis, you can't do much about SSL pinning or when the app has a PIN prompt. Therefore, tools like Frida are really valuable.
