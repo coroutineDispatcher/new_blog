@@ -1,5 +1,5 @@
 ---
-title: "Intercepting Android at runtime on non-rooted devices."
+title: "Bypass SSL pinning at runtime on Android non-rooted devices"
 seoTitle: "Intercepting Android on runtime on non-rooted devices"
 seoDescription: "Interestingly enough, Frida tool has its place on non-rooted devices as well. It can be used directly or with the help of another tool called Objection..."
 datePublished: Sun Sep 08 2024 14:06:43 GMT+0000 (Coordinated Universal Time)
